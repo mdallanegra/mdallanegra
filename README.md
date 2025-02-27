@@ -19,15 +19,15 @@ Here are some ideas to get you started:
     <img src="static/img/neuro-pathways-rm-bg.png" width="200" alt="Neuro Pathways Logo">
 </p>
 
-<p style="font-size: 40px; text-align: center;"> 
+<p style="font-size: 4vw; text-align: center;"> 
 <strong>Bienvenido a mi GitHub Personal</strong><br>
 Welcome to My Personal GitHub
 </p>
 <br>
 
-<p style="font-size: 30px; text-align: left;"> 
+<p style="font-size: 3vw; text-align: left;"> 
 <strong>Miguel Angel Dallanegra Vilches</strong></p>
-<p style="font-size: 20px; text-align: left;"> 
+<p style="font-size: 2vw; text-align: left;"> 
 X5000 · Córdoba, Argentina</p>
 
 ## Indice <!-- omit in toc --> 
