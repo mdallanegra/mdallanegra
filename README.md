@@ -115,9 +115,12 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
 
 ## Descarga de CV
 
+<div align="center">
+
 [Descargue CV en Español](static/files/Curriculum%20Vitae%20-%20Miguel%20Angel%20Dallanegra%20Vilches.es.pdf)  
 [Download CV in English](static/files/Curriculum%20Vitae%20-%20Miguel%20Angel%20Dallanegra%20Vilches.en.pdf)  
 [Scarica CV in Italiano](static/files/Curriculum%20Vitae%20-%20Miguel%20Angel%20Dallanegra%20Vilches.it.pdf)  
+</div>
 
 ---
 
