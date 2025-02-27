@@ -125,10 +125,3 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
 ---
 
 © 2024 Miguel Angel Dallanegra Vilches
-
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-- [ ] \(Optional) Open a followup issue
-
