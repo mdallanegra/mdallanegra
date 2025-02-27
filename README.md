@@ -28,6 +28,7 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
 
 <a href="https://mdallanegra.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Website-mdallanegra.com-darkblue?style=flat&logo=internetexplorer" alt="Website Badge">
+
 </a>
  <a class="social-icon" href="https://www.linkedin.com/in/mdallanegra" target="_blank" rel="noopener noreferrer" title="Mi Perfil de LinkedIn">
     <i class="fab fa-linkedin-in"></i></a>
@@ -41,6 +42,7 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
     <i class="fa-solid fa-phone"></i></a>
 <a class="social-icon" href="mailto:mdallanegra@icloud.com"target="_blank" rel="noopener noreferrer" title="Escríbeme un Correo">
     <i class="fa-solid fa-envelope"></i></a>
+    
 [![Website](https://img.shields.io/badge/Website-mdallanegra.com-darkblue?style=flat&logo=internetexplorer)](https://mdallanegra.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mdallanegra)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/mdallanegra)  
