@@ -52,7 +52,7 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" width="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" width="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX" width="35"/>
+    <img src="https://skillicons.dev/icons?i=latex" title="LaTeX" width="35"/>
 </p>
 
 <div align="center">
