@@ -28,7 +28,6 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
 
 [![Website](https://img.shields.io/badge/Website-mdallanegra.com-darkblue?style=flat&logo=internetexplorer)](https://mdallanegra.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mdallanegra)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/mdallanegra)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/543513583517)  
 [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat&logo=telegram)](tg://msg?to=@mdallanegra)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mdallanegra@icloud.com)  
