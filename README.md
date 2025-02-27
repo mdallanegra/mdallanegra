@@ -19,19 +19,26 @@ Here are some ideas to get you started:
     <img src="static/img/neuro-pathways-rm-bg.png" width="200" alt="Neuro Pathways Logo">
 </p>
 
-<p style="font-size: 40vw; text-align: center;"> 
+<p style="font-size: 4vw; text-align: center;"> 
 <strong>Bienvenido a mi GitHub Personal</strong><br>
 Welcome to My Personal GitHub
 </p>
 <br>
 
-<p style="font-size: 30vw; text-align: left;"> 
+<p style="font-size: 3vw; text-align: left;"> 
 <strong>Miguel Angel Dallanegra Vilches</strong></p>
-<p style="font-size: 20vw; text-align: left;"> 
+<p style="font-size: 2vw; text-align: left;"> 
 X5000 · Córdoba, Argentina</p>
+
+<div align="center">
+# **Bienvenido a mi GitHub Personal**<br>Welcome to My Personal GitHub <!-- omit in toc --> 
+<br>
+## **Miguel Angel Dallanegra Vilches**<br>X5000 · Córdoba, Argentina <!-- omit in toc --> 
+</div>
 
 ## Indice <!-- omit in toc --> 
 - [Resumen Profesional](#resumen-profesional)
+- [Habilidades - Lenguajes y Herramientas de Programación](#habilidades---lenguajes-y-herramientas-de-programación)
 - [Contacto \& Redes Sociales](#contacto--redes-sociales)
 - [Descarga de CV](#descarga-de-cv)
 ---
@@ -41,7 +48,7 @@ X5000 · Córdoba, Argentina</p>
 Soy un profesional versátil con experiencia en relaciones públicas, marketing y lenguas. Mi trayectoria ha evolucionado para incluir el estudio de la ingeniería electrónica y una profunda inmersión en la programación con C y Python. Este camino eventualmente me llevó a la ciencia de datos, de la cual me he graduado recientemente. Con fluidez en tres idiomas, aporto perspectivas diversas y una gran capacidad de adaptación.
 
 <div align="center">
-<h2> Habilidades - Lenguajes y Herramientas de Programación</h2>
+## Habilidades - Lenguajes y Herramientas de Programación
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="C" width="35"/>
@@ -58,8 +65,6 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" width="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX" width="35"/>
-   
-
 </p>
 
 
