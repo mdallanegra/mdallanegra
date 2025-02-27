@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 ## Resumen Profesional
 Soy un profesional versátil con experiencia en relaciones públicas, marketing y lenguas. Mi trayectoria ha evolucionado para incluir el estudio de la ingeniería electrónica y una profunda inmersión en la programación con C y Python. Este camino eventualmente me llevó a la ciencia de datos, de la cual me he graduado recientemente. Con fluidez en tres idiomas, aporto perspectivas diversas y una gran capacidad de adaptación.
 
-<div align="center">
 ## Habilidades - Lenguajes y Herramientas de Programación
 
 <p align="center">
@@ -62,6 +61,7 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX" width="35"/>
 </p>
 
+<div align="center">
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
