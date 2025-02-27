@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <h1><strong>Bienvenido a mi GitHub Personal</strong>
 <br>Welcome to My Personal GitHub</h1>
+</div>
 
-<br>
+<div align="center">
 
-<h2><strong>Miguel Angel Dallanegra Vilches</strong>
-<br>X5000 · Córdoba, Argentina</h2>
+# **Bienvenido a mi GitHub Personal** <br>Welcome to My Personal GitHub <!-- omit in toc --> 
 
 </div>
 
