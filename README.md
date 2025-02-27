@@ -21,13 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<h1><strong>Bienvenido a mi GitHub Personal</strong>
-<br>Welcome to My Personal GitHub</h1>
-</div>
-
-<div align="center">
-
-# **Bienvenido a mi GitHub Personal** <br>*Welcome to My Personal GitHub* <!-- omit in toc --> 
+# **Bienvenido a mi GitHub Personal**<!-- omit in toc --> 
 
 </div>
 
