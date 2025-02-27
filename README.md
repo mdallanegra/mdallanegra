@@ -81,11 +81,20 @@ Soy un profesional versátil con experiencia en relaciones públicas, marketing 
 
 ## Contacto & Redes Sociales
 
+<div align="center">
+
 [![Website](https://img.shields.io/badge/Website-mdallanegra.com-darkblue?style=flat&logo=homepage)](https://mdallanegra.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mdallanegra)  
+</div>
+<div align="center">
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/543513583517)  
 [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat&logo=telegram)](tg://msg?to=@mdallanegra)  
+</div>
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mdallanegra@icloud.com)  
+</div>
 
 ## Descarga de CV
 
