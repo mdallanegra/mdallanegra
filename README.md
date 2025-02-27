@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Indice <!-- omit in toc --> 
 - [Resumen Profesional](#resumen-profesional)
-- [Habilidades - Lenguajes y Herramientas de Programación](#habilidades---lenguajes-y-herramientas-de-programación)
+- [Habilidades, Lenguajes y Herramientas de Programación](#habilidades-lenguajes-y-herramientas-de-programación)
 - [Contacto \& Redes Sociales](#contacto--redes-sociales)
 - [Descarga de CV](#descarga-de-cv)
 ---
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## Resumen Profesional
 Soy un profesional versátil con experiencia en relaciones públicas, marketing y lenguas. Mi trayectoria ha evolucionado para incluir el estudio de la ingeniería electrónica y una profunda inmersión en la programación con C y Python. Este camino eventualmente me llevó a la ciencia de datos, de la cual me he graduado recientemente. Con fluidez en tres idiomas, aporto perspectivas diversas y una gran capacidad de adaptación.
 
-## Habilidades - Lenguajes y Herramientas de Programación
+## Habilidades, Lenguajes y Herramientas de Programación
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="C" width="35"/>
